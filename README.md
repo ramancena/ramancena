@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">I'm currently working on Developing automated framework through spark/Scala to load data from various sources into aws svality buckets for analytics/prediction.<br><br>I'm looking to collaborate on Data science for computational analytics - for learning</p>
+<p align="left">I'm currently working on developing automated framework through spark/Scala to load data from various sources into aws svality buckets for analytics/prediction.<br><br>I'm looking to learn data science for computational analytics </p>
 
 ###
 
