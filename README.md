@@ -65,6 +65,9 @@
   <a href="https://www.facebook.com/ramancena" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJvqnGTwLBGzcNktmWDFRGBKj?projector=1&messagePartId=0.1" target="_blank">
+    <img src="https://www.freeiconspng.com/uploads/resume-icon-png-2.png&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
