@@ -88,9 +88,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ramancena/count.svg?"  />
-</div>
-
-###
