@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scala/DC322F" height="30" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="30" alt="apache_hadoop">
 </div>
 
 ###
